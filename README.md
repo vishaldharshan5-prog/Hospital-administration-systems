@@ -1,4 +1,4 @@
-# Clinic_Hospital_Management
+# Hospital-administration-systems
 
 IMPORTANT INSTRUCTIONS HOW TO RUN THE PROJECT :-
 
@@ -30,7 +30,7 @@ Create a database for the students in mysql commandline using following Commands
 ![Screenshot (1846)](https://github.com/adityasurya4103/Clinic-Hospital-Management-System-/assets/97177344/6d39da94-d4b2-488b-bcea-7090b408e3be)
 ![Screenshot (1845)](https://github.com/adityasurya4103/Clinic-Hospital-Management-System-/assets/97177344/fe5d0d24-a69b-4b33-b887-156899d21bc9)
 # Description of the project :
-The project is build using Python and tkinter and uses mysql as a database
+The project is build using Python and uses mysql as a database
 Welcome to the Clinic/Hospital Management System! Our system is designed to efficiently store and manage patient data, as well as handle appointment bookings and cancellations. Here are the key features:
 
 1. Patient Database:
